@@ -16,9 +16,9 @@ Vous recevez un message de votre manager avec une bonne nouvelle…
 >
 > **Thomas** : Hello ! Ça va ? Je sors d’une réunion avec Learn@Home ! Et j’ai un projet pour toi !
 >
-> **Vous** : Ça va et toi ? Super ! C’est quoi ce projet ? 😃
+> **Vous** : Ça va et toi ? Super ! C’est quoi ce projet ? :smiley:
 >
-> **Thomas** : Learn@Home est une association qui met en relation des enfants en difficulté scolaire avec des tuteurs bénévoles. En gros, leur objectif est de permettre à tout élève, où qu’il soit, d’avoir accès à un soutien scolaire à distance. Ils nous ont confirmé qu’ils voulaient travailler avec nous sur leur projet de site web. 💪🚀
+> **Thomas** : Learn@Home est une association qui met en relation des enfants en difficulté scolaire avec des tuteurs bénévoles. En gros, leur objectif est de permettre à tout élève, où qu’il soit, d’avoir accès à un soutien scolaire à distance. Ils nous ont confirmé qu’ils voulaient travailler avec nous sur leur projet de site web. :muscle::rocket:
 >
 > **Vous** : Génial ! À quoi servira leur site ? 
 >
@@ -28,7 +28,7 @@ Vous recevez un message de votre manager avec une bonne nouvelle…
 >
 > **Thomas** : Je voulais te proposer de gérer ce projet : ton rôle serait de cadrer ce projet puis de coordonner tous les développements avec l’équipe. C’est un projet ambitieux et intéressant !
 >
-> **Vous** : Merci ! 😃 Très beau projet en effet, j’ai hâte de démarrer. Tu m’envoies plus d’éléments ?
+> **Vous** : Merci ! :smiley: Très beau projet en effet, j’ai hâte de démarrer. Tu m’envoies plus d’éléments ?
 >
 > **Thomas** : Oui bien sûr, je t’envoie un mail dès demain.
 >
